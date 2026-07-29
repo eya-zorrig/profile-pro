@@ -64,3 +64,9 @@ h1, h2 {
     flex-direction: row;
   }
 }
+body.dark-theme {
+  --background: #1e293b;
+  --text: #f8fafc;
+  --white: #334155;
+  --border: #475569;
+}
